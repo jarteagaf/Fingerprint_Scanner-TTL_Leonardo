@@ -1,4 +1,4 @@
-Fingerprint_Scanner-TTL For Arudino Leonardo
+Fingerprint_Scanner-TTL for Arudino Leonardo
 ===================================
 [![FingerPrint Scanner](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/7/9/2/11792-01_medium.jpg)  
 *Fingerprint Scanner - 5V TTL (GT-511C3)(SEN-11792)*](https://www.sparkfun.com/products/11792)
